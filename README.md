@@ -1,3 +1,3 @@
 # SharedLibrariesService
 
-This is the collection of projects that will be used only by the web site projects
+This is the collection of shared projects that will be used only by the three service projects
